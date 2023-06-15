@@ -1,3 +1,3 @@
 ## Description
 
-description of project
+description of my project

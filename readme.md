@@ -9,4 +9,4 @@
 ### Subsubheader
 
 - weekly updates available
-- now updated another time
+- now updated a different time

@@ -1,12 +1,12 @@
 # Demo-Repo
 
-description of my project
+- description of my project
 
 ## Subheader
 
-follow my tutorials on youtube
+- follow my tutorials on youtube
 
 ### Subsubheader
 
-weekly updates available
-now updated
+- weekly updates available
+- now updated
